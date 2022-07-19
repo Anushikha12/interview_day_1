@@ -16,7 +16,7 @@ console.log(a===b);//false
 // example--
 
 let c=[1,2,3,4];
-let d=[...a];
+let d=[...c];
 console.log(d);
 
 //3)What are the differences between var, let and const?
