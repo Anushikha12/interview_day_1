@@ -42,6 +42,10 @@ console.log(d);
 
 // When any function is treated like any other variable,it is known as first class function.for instance,function can be passed as an 
 // argument to any other function,can be assigned to any variable and can be returned by any other function.
+//example--
 
-
+const foo=function(){
+  console.log("foobar")
+}
+foo();//invoking the function using variable.
 
